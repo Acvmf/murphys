@@ -1,0 +1,26 @@
+#menuimg{
+  height: inherit;
+  width: auto;
+}
+
+#menu{
+  width: inherit;
+  height: 75px;
+}
+
+#splash{
+  background-image: url("murphys-front.jpg");
+  height: inherit;
+  width: inherit;
+}
+
+#splashlogo{
+  align-content: center;
+  border: dashed;
+}
+
+#blurb{
+  color: white;
+  align-content: center;
+  border: dashed;
+}
